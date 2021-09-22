@@ -1,1 +1,1 @@
-# Programming_and_Data-Analysis_hw0
+### Among the quotes inside *The Zen of Python*, *Beautiful is better than ugly.* and *Readability counts.* really catch my eyes. Since Python is a beautiful language that can solve problems in fewer lines of code while also being prettier than other programming languages.
